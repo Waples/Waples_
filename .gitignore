@@ -1,5 +1,10 @@
+### general secrets
 secret
 secrets
 secret/
 secrets/
 
+
+### environment variables for ci/cd
+environ
+environ/
