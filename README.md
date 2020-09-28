@@ -10,6 +10,8 @@ Please see [labs.py](labs/labs.py)
 ### ToDo
 - [ ] Rebuild with a yaml or json file.
 - [ ] Add my yaml-json-yaml converter module.
+- [ ] Add my static website generator `genny`.
+- [ ] Convert genny to a package.
 - [ ] Allot more....
 
 
