@@ -35,7 +35,7 @@ p {
 a {
   -webkit-transition: border-color 500ms ease, color 500ms ease;
   transition: border-color 500ms ease, color 500ms ease;
-  color: #fff;
+  color: #888888;
   text-decoration: none;
 }
 
