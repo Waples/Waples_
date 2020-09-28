@@ -7,8 +7,10 @@ I created some modules and a wrapper based around the AWS `boto3` library to aut
 Please see [labs.py](labs/labs.py)
 
 
-#### Info
-Here will be my website code someday...
+### ToDo
+- [ ] Rebuild with a yaml or json file.
+- [ ] Add my yaml-json-yaml converter module.
+- [ ] Allot more....
 
 
 ##### Headsup
